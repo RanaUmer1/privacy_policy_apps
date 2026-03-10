@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy - Speaker Cleaner</title>
+<style>
+body{
+    font-family: Arial, sans-serif;
+    line-height:1.6;
+    margin:40px;
+    background:#f9f9f9;
+    color:#333;
+}
+h1,h2{
+    color:#222;
+}
+.container{
+    max-width:900px;
+    margin:auto;
+    background:white;
+    padding:30px;
+    border-radius:8px;
+    box-shadow:0 0 10px rgba(0,0,0,0.05);
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Privacy Policy</h1>
+
+<p>Last Updated: March 2026</p>
+
+<p>
+Speaker Cleaner ("we", "our", or "us") values your privacy. This Privacy Policy explains how our mobile application
+<strong>Speaker Cleaner</strong> collects, uses, and protects user information.
+</p>
+
+<h2>1. Information We Collect</h2>
+
+<p>
+Speaker Cleaner does not collect any personal information such as your name, email address, or phone number.
+The app is designed to work without requiring personal user data.
+</p>
+
+<p>
+However, the application may use third-party services such as advertising networks that may collect certain
+non-personal information automatically.
+</p>
+
+<h2>2. Advertising</h2>
+
+<p>
+Our app may display advertisements using third-party advertising providers such as Google AdMob.
+These services may collect non-personal data such as:
+</p>
+
+<ul>
+<li>Device information</li>
+<li>Advertising identifiers</li>
+<li>App usage statistics</li>
+<li>Approximate location (non-precise)</li>
+</ul>
+
+<p>
+This data helps deliver relevant advertisements and improve ad performance.
+</p>
+
+<h2>3. Permissions Used</h2>
+
+<p>The application may request the following permissions:</p>
+
+<ul>
+<li><strong>Vibration Permission</strong> – Used to run vibration cleaning features.</li>
+<li><strong>Audio Access</strong> – Used to generate sound frequencies to clean speakers.</li>
+</ul>
+
+<p>
+These permissions are used only for app functionality and are not used to collect personal data.
+</p>
+
+<h2>4. Data Security</h2>
+
+<p>
+We take reasonable measures to protect user privacy. Since our application does not store personal data,
+there is minimal risk related to personal information.
+</p>
+
+<h2>5. Third-Party Services</h2>
+
+<p>
+The app may use third-party services that have their own privacy policies, including:
+</p>
+
+<ul>
+<li>Google AdMob</li>
+<li>Google Play Services</li>
+</ul>
+
+<p>
+We recommend reviewing their privacy policies for more details.
+</p>
+
+<h2>6. Children's Privacy</h2>
+
+<p>
+Speaker Cleaner is not directed toward children under the age of 13. We do not knowingly collect personal
+information from children.
+</p>
+
+<h2>7. Changes to This Privacy Policy</h2>
+
+<p>
+We may update our Privacy Policy from time to time. Any updates will be posted on this page.
+</p>
+
+<h2>8. Contact Us</h2>
+
+<p>
+If you have any questions about this Privacy Policy, you can contact us at:
+</p>
+
+<p>
+Email: mzalogics@gmail.com
+</p>
+
+</div>
+
+</body>
+</html>
